@@ -8,7 +8,7 @@ there are 2 main folders in this repo
 2. modules: contain the modules that used for terraform scripts in core folder
 ## How To
 
-### Prepare the App and it's Infrastructure
+### Prepare the App and its Infrastructure
 ```
 export GOOGLE_CREDENTIALS="/your/path/to/credentials.json"
 ```
